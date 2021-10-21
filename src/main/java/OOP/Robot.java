@@ -152,6 +152,7 @@ public class Robot {
         }
         while (toY != robot.getY()){
             robot.stepForward();
+
         }
     }
 }
